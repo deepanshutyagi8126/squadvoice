@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.781" height="64" viewBox="0 0 38.781 64">
+    <defs>
+        <style>
+            .prefix__cls-2,.prefix__cls-4{fill:none}.prefix__cls-2{stroke:#f07549;stroke-width:2px}.prefix__cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__Group_777" data-name="Group 777" transform="translate(-1001.42 -2391)">
+        <g id="prefix__funnel-tool-variant" transform="translate(998 2408.888)">
+            <path id="prefix__Path_1009" d="M38.766 25.517c-.359-3.189-10.2-4.909-19.376-4.909S.381 22.326.016 25.514a.416.416 0 00-.016.114v4.125a.412.412 0 00.193.35l14.086 8.879V54.3a.413.413 0 00.413.413.393.393 0 00.121-.018l9.4-2.888a.413.413 0 00.291-.395v-12.43L38.588 30.1a.415.415 0 00.193-.35v-4.123a.407.407 0 00-.015-.11zM19.236 22.6c10.36 0 15.78 1.655 15.78 2.544 0 .107-.166.324-.567.547a36.711 36.711 0 01-4.6 1.2c-.7.13-1.413.242-2.116.347a76.325 76.325 0 01-8.5.446c-10.361 0-15.78-1.656-15.78-2.544s5.422-2.54 15.783-2.54z" data-name="Path 1009" transform="translate(3.42 -17.601)" style="fill:#f07549"/>
+        </g>
+        <g id="prefix__Group_776" data-name="Group 776">
+            <g id="prefix__Ellipse_87" class="prefix__cls-2" data-name="Ellipse 87" transform="translate(1010 2402)">
+                <circle cx="4" cy="4" r="4" class="prefix__cls-3"/>
+                <circle cx="4" cy="4" r="3" class="prefix__cls-4"/>
+            </g>
+            <g id="prefix__Ellipse_88" class="prefix__cls-2" data-name="Ellipse 88" transform="translate(1023 2400)">
+                <circle cx="4" cy="4" r="4" class="prefix__cls-3"/>
+                <circle cx="4" cy="4" r="3" class="prefix__cls-4"/>
+            </g>
+            <g id="prefix__Ellipse_89" class="prefix__cls-2" data-name="Ellipse 89" transform="translate(1017 2391)">
+                <circle cx="4" cy="4" r="4" class="prefix__cls-3"/>
+                <circle cx="4" cy="4" r="3" class="prefix__cls-4"/>
+            </g>
+        </g>
+        <g id="prefix__Ellipse_90" class="prefix__cls-2" data-name="Ellipse 90" transform="translate(1017 2447)">
+            <circle cx="4" cy="4" r="4" class="prefix__cls-3"/>
+            <circle cx="4" cy="4" r="3" class="prefix__cls-4"/>
+        </g>
+    </g>
+</svg>

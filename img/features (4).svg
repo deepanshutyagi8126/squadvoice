@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.208" height="50.121" viewBox="0 0 48.208 50.121">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#f07549}
+        </style>
+    </defs>
+    <g id="prefix__Group_803" data-name="Group 803" transform="translate(-6103 -2447)">
+        <g id="prefix__cpu" transform="translate(6116.706 2466.417)">
+            <path id="prefix__Rectangle_74" d="M0 0H3.937V3.937H0z" class="prefix__cls-1" data-name="Rectangle 74" transform="translate(8.311 8.311)"/>
+            <path id="prefix__Path_1020" d="M103.175 0h-1.355v4.181h-2.5V0h-1.354v4.181h-2.5V0h-1.354v4.181h-1.566v12.2h1.566v4.182h1.355v-4.186h2.5v4.181h1.355v-4.181h2.5v4.181h1.355v-4.181h1.566V4.181h-1.566zM95.32 13.6V6.955h6.648V13.6z" class="prefix__cls-1" data-name="Path 1020" transform="translate(-88.365)"/>
+            <path id="prefix__Rectangle_75" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 75" transform="translate(16.377 5.736)"/>
+            <path id="prefix__Rectangle_76" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 76" transform="translate(16.377 9.59)"/>
+            <path id="prefix__Rectangle_77" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 77" transform="translate(16.377 13.444)"/>
+            <path id="prefix__Rectangle_78" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 78" transform="translate(0 5.736)"/>
+            <path id="prefix__Rectangle_79" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 79" transform="translate(0 9.59)"/>
+            <path id="prefix__Rectangle_80" d="M0 0H4.181V1.355H0z" class="prefix__cls-1" data-name="Rectangle 80" transform="translate(0 13.444)"/>
+        </g>
+        <g id="prefix__exclamation-alert-sign-on-reminder-daily-calendar-page" transform="translate(6103 2447)">
+            <g id="prefix__Group_802" data-name="Group 802">
+                <path id="prefix__Path_1018" d="M44.624 1.913H42.9a1.515 1.515 0 00.089-.442 1.471 1.471 0 00-2.941 0 1.38 1.38 0 00.09.442H34.51a1.466 1.466 0 00.089-.442 1.472 1.472 0 00-2.945 0 1.423 1.423 0 00.09.442h-5.632a1.467 1.467 0 00.089-.442 1.471 1.471 0 00-2.943 0 1.467 1.467 0 00.089.442h-5.632a1.467 1.467 0 00.089-.442 1.471 1.471 0 00-2.943 0 1.421 1.421 0 00.089.442H9.318a1.421 1.421 0 00.089-.442 1.471 1.471 0 10-2.941 0 1.467 1.467 0 00.089.442H4.834A4.212 4.212 0 00.625 6.122v39.79a4.211 4.211 0 004.209 4.209h35.038l8.961-8.961V6.122a4.211 4.211 0 00-4.209-4.209zm1.913 38.3l-.476.476h-3.605a3.069 3.069 0 00-3.061 3.061v3.6l-.474.476H4.834a1.916 1.916 0 01-1.913-1.913V13.774h43.616z" class="prefix__cls-1" data-name="Path 1018" transform="translate(-.625)"/>
+            </g>
+        </g>
+    </g>
+</svg>

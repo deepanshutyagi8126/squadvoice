@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="54.231" viewBox="0 0 60 54.231">
+    <g id="prefix__Group_123" data-name="Group 123" transform="translate(-1067 -1487.27)">
+        <g id="prefix__Group_115" data-name="Group 115" transform="translate(-303 -1005.499)">
+            <g id="prefix__heart_1_" data-name="heart (1)" transform="translate(1370 2468.446)">
+                <path id="prefix__Path_118" d="M49.849 64.876L55.3 59.42l.857-.857a14.24 14.24 0 00-20.135-20.139l-.857.857-.857-.857A14.24 14.24 0 0014.17 58.563l.857.857 20.139 20.139 8.643-8.643" data-name="Path 118" transform="translate(-3.332 -7.644)" style="fill:#ff5c7d"/>
+                <g id="prefix__Group_114" data-name="Group 114" transform="translate(0 24.323)">
+                    <path id="prefix__Path_119" d="M54.877 29.437a17.51 17.51 0 00-24.735 0L30 29.58l-.142-.142A17.49 17.49 0 005.123 54.173l24.038 24.038a1.2 1.2 0 001.677 0l9.9-9.9a1.187 1.187 0 00-1.677-1.677L30 75.7 6.8 52.5a15.118 15.118 0 0121.38-21.385l.981.981a1.2 1.2 0 001.677 0l.981-.981A15.118 15.118 0 1153.2 52.5l-7.227 7.227A1.187 1.187 0 0047.65 61.4l7.227-7.227a17.49 17.49 0 000-24.735z" data-name="Path 119" transform="translate(0 -24.323)"/>
+                    <path id="prefix__Path_120" d="M359.267 349.918a1.185 1.185 0 10-.459 1.454 1.2 1.2 0 00.459-1.454z" data-name="Path 120" transform="translate(-314.652 -310.661)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2130 @@
+@media(max-width:1920px) {
+    .Banner {
+        padding: 140px 0 180px;
+        background-size: 100% 100%;
+    }
+    .banHead h1{
+             font-size: 95px;
+    line-height: 125px;   
+    }
+}
+
+@media(max-width:1560px) {
+            .banHead h1{
+             font-size: 76px;
+    line-height: 96px;   
+    }
+}
+
+@media(max-width:1367px) {
+    .Banner {
+        background-size: cover;
+        padding: 145px 0 88px;
+        
+    }
+        .banHead h1{
+             font-size: 61px;
+    line-height: 80px;   
+    }
+}
+
+@media(max-width:1199px) {
+    .bannerContent {
+        margin-top: 180px;
+    }
+    h2.headingSize {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    h4.headingSize {
+        font-size: 22px;
+        line-height: 27px;
+    }
+    h2.subheadSize {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    h2.headSize {
+        font-size: 38px;
+        line-height: 44px;
+    }
+    h4.headSize {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .squadSteps .stepsList {
+        left: 1vw;
+        width: 26vw;
+    }
+    .squadSteps .stepsList:nth-child(even) {
+        margin-top: 8vw;
+    }
+    .squadSteps .stepsList:nth-child(2) {
+        left: 19vw;
+    }
+    .squadSteps .stepsList:nth-child(3) {
+        left: 37vw;
+    }
+    .squadSteps .stepsList:nth-child(4) {
+        left: 55vw;
+    }
+    .squadSteps .stepsList:nth-child(5) {
+        left: 72vw;
+    }
+    h1.mainHeading {
+        font-size: 45px;
+    }
+    .careerBanner h4.subHeading {
+        font-size: 20px;
+    }
+    .departmentList h4.headingSize {
+        font-size: 20px;
+    }
+    .departmentDetails {
+        padding-left: 60px;
+        padding-bottom: 50px;
+    }
+    .openRoles .topHeading h4 {
+        font-size: 24px;
+    }
+    .trustedImg {
+        height: 170px;
+    }
+    .compImage {
+        width: 100px;
+    }
+    .applyBox {
+        padding-left: 0px;
+    }
+    .description img {
+        width: 25px;
+    }
+    .triviaAll {
+        padding: 70px 0px 95px;
+    }
+    .squadGetInner {
+        margin: 50px auto 0px;
+    }
+    .peopleSay .col-sm-6:first-child {
+        flex: 0 0 56%;
+        max-width: 56%;
+    }
+    .peopleSay .col-sm-6:last-child {
+        flex: 0 0 44%;
+        max-width: 44%;
+    }
+    .slickoRight {
+        padding-right: 30px;
+    }
+    .peopleSay .slickarea .slickoTop {
+        left: 0;
+    }
+    .triviaAll:nth-child(even) .triviaRight {
+        margin-left: 0;
+        padding-left: 30px;
+    }
+    .trivaFirst {
+        width: 350px;
+        height: 250px;
+    }
+    .trivaThird {
+        left: -68px;
+        bottom: -41px;
+        width: 165px;
+        height: 100px;
+    }
+    .trivaSecond {
+        top: 77px;
+        width: 150px;
+        height: 100px;
+    }
+    .triviaAll:nth-child(odd) .trivaThird {
+        left: -95px;
+    }
+    .prolftSlick .slick-prev {
+    left: -2%;
+}
+    .prolftSlick .slick-next {
+    right: -2%;
+}
+    .banHead h1 {
+    font-size: 56px;
+    line-height: 68px;
+    }
+    .trivaFirst:hover {
+    transform: scale(1);
+}
+    .triviaAll:nth-child(odd) .trivaThird:hover, .triviaAll:nth-child(odd) .trivaSecond:hover, .trivaThird:hover, .trivaSecond:hover{
+       transform: scale(1);  
+    }
+    .trustedBy.paddingSpace.our_investors{
+    max-height: auto;
+}
+}
+
+@media(max-width:991px) {
+    .container {
+        max-width: 100%;
+        padding: 0 30px;
+    }
+    .nav-item:not(:last-child) {
+        margin-right: 35px;
+    }
+    .bannerContent {
+        margin-top: 140px;
+    }
+    h2.headingSize {
+        font-size: 31px;
+        line-height: 38px;
+    }
+    h4.headingSize {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    h2.subheadSize {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    h2.headSize {
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .featureList br {
+        display: none;
+    }
+    h4.headSize {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .headingCenter,
+    .headingLeft {
+        padding-bottom: 15px;
+    }
+    .Banner {
+        padding: 145px 0 40px;
+    }
+    .footer .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .footerMenu {
+        margin-top: 50px;
+    }
+    .stepslistInner p {
+        font-size: 12px;
+    }
+    .squadSteps .stepsList {
+        left: 1vw;
+        width: 27vw;
+    }
+    .stepslistInner h3 {
+        font-size: 18px;
+    }
+    .stepslistInner h4 {
+        font-size: 16px;
+    }
+    .startSteps {
+        padding: 100px 0 0px;
+        position: relative;
+    }
+    .squadSteps .stepsList:nth-child(even) {
+        margin-top: 10vw;
+    }
+    .locationAll {
+        width: 300px;
+    }
+    .departmentFilter {
+        width: 300px;
+        min-width: 300px;
+        margin-right: 30px;
+    }
+    .departmentDetails {
+        padding-left: 30px;
+    }
+    h1.mainHeading {
+        font-size: 38px;
+    }
+    .careerBanner h4.subHeading {
+        font-size: 18px;
+    }
+    .careerBanner {
+        padding: 130px 0 85px;
+    }
+    .departmentList h4.headingSize {
+        font-size: 18px;
+    }
+    .departmentInner .location {
+        font-size: 12px;
+    }
+    .departmentInner h4 {
+        margin: 0 0 14px;
+    }
+    .applyBox {
+        padding-left: 0px;
+    }
+    .jobDescription {
+        padding: 72px 0 130px;
+    }
+    .applyBox a {
+        padding: 15px 22px;
+    }
+    .jobInner .col-sm-8,
+    .jobInner .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .applyBox {
+        padding-left: 0px;
+        width: 290px;
+    }
+    .beliveIn .col-sm-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .beliveInner .col-sm-4:nth-child(4),
+    .beliveInner .col-sm-4:nth-child(6) {
+        padding-top: 120px;
+    }
+    .beliveInner .col-sm-4:nth-child(3) {
+        padding-left: 90px;
+        padding-top: 120px;
+    }
+    .beliveInner .col-sm-4:nth-child(5) {
+        padding-right: 25px;
+        padding-top: 120px;
+    }
+    .trivaFirst {
+        width: 215px;
+        height: 165px;
+    }
+    .trivaSecond {
+        width: 125px;
+        height: 83px;
+        right: -57px;
+        top: 43px;
+    }
+    .trivaThird {
+        bottom: -50px;
+        width: 110px;
+        height: 78px;
+        left: -54px;
+    }
+    .triviaAll:nth-child(odd) .trivaThird {
+        left: -67px;
+        top: -46px;
+    }
+    .triviaAll:nth-child(odd) .trivaSecond {
+        right: -73px;
+    }
+    .squadGetInner {
+        width: 100%;
+        padding: 20px 15px 20px 15px;
+        margin: 30px auto 0px;
+    }
+    .peopleSay .slickarea .slickoTop {
+        left: -40px;
+        height: 523px;
+        width: 350px;
+    }
+    .beliveInner .col-sm-4:nth-child(4) {
+        padding-top: 120px;
+        padding-right: 39px;
+    }
+    .beliveInner .col-sm-4:nth-child(6) {
+        padding-left: 50px;
+        padding-top: 120px;
+    }
+    .banHead h1 {
+    font-size: 45px;
+    line-height: 56px;
+}
+}
+
+@media(max-width:767px) {
+    .squadget .col-sm-4 {
+        width: 50%;
+    }
+    .header {
+        padding: 15px 0;
+    }
+    .topBoxs {
+        margin-top: 85px;
+    }
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+    }
+    .navbar-expand-md .navbar-collapse {
+        position: fixed;
+        width: 250px;
+        top: 0;
+        left: -250px;
+        background: #252f40;
+        height: 100%;
+        transition: all 0.3s ease;
+        display: initial !important;
+        margin-top: 60px;
+        padding: 20px 15px 0px 30px;
+        z-index: 9;
+    }
+    .nav-link:hover,
+    .nav-link:focus {
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox {
+        display: block !important;
+        float: left !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding: 0;
+    }
+    .nav-item {
+        margin-bottom: 15px;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu {
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show {
+        transition: all 0.3s ease;
+    }
+    .dropdown-item {
+        color: #fff;
+    }
+    .Banner .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .Banner {
+        padding: 120px 0;
+    }
+    .bannerInner .row {
+        flex-direction: column-reverse;
+    }
+    .bannerImg {
+        position: initial;
+        width: 450px;
+        margin: 0 auto;
+    }
+    .Banner h4 {
+        margin-bottom: 60px;
+    }
+    .bannerContent {
+        margin-top: 80px;
+        text-align: center;
+    }
+    .bannerContent h2.headingSize,
+    .bannerContent h4 {
+        color: var(--colorWhite);
+    }
+    h2.headingSize {
+        font-size: 28px;
+        line-height: 34px;
+        color: var(--colorMidnight);
+    }
+    h2.subheadSize {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    h2.headSize {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    h2.headSize.mobHeading {
+        color: var(--colorMidnight);
+    }
+    h4.headSize {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .socialIcon ul li {
+        height: 46px;
+        width: 46px;
+    }
+    .socialIcon ul li a {
+        font-size: 31px;
+    }
+    .listInner:not(:last-child) {
+        margin-bottom: 80px;
+    }
+    .listInner,
+    .listInner:nth-child(even) {
+        display: block;
+    }
+    .ourtaskList {
+        margin: 20px 0 50px;
+    }
+    .workImage {
+        width: 70%;
+        margin: 0 auto;
+        float: unset;
+    }
+    .pressmentionList ul {
+        display: block;
+    }
+    .pressmentionList ul li {
+        width: 100%;
+    }
+    .pressmentionList ul li:not(:last-child) {
+        margin-bottom: 16px;
+        padding-bottom: 16px;
+    }
+    .pressmentionList ul li::after {
+        width: 250px;
+        height: 2px;
+        right: 0;
+        left: 0;
+        top: initial;
+        bottom: 0;
+        margin: 0 auto;
+    }
+    .workContent,
+    .listInner:nth-child(even) .workContent {
+        margin: 0;
+    }
+    .headerBox {
+        width: 100%;
+    }
+    .nav-item {
+        margin-right: 0 !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        width: auto;
+        float: left;
+    }
+    .featureImage {
+        margin: 0 auto;
+    }
+    .featureLists h4 {
+        text-align: center;
+        margin-bottom: 26px;
+        padding-bottom: 15px;
+    }
+    .featureLists h4::after {
+        right: 0;
+        margin: 0 auto;
+    }
+    .featuresBox {
+        padding-right: 0px;
+    }
+    .features {
+        -webkit-clip-path: polygon(0% 90%, 0% 0%, 100% 0%, 100% 100%);
+        clip-path: polygon(0% 90%, 0% 0%, 100% 0%, 100% 100%);
+    }
+    .squadDesktop {
+        display: none;
+    }
+    .squadMobile {
+        display: block;
+        padding: 0 30px;
+    }
+    .stepslistInner h3 {
+        display: none;
+    }
+    .squadSteps {
+        margin-top: 7vw;
+        padding: 0 30px;
+        left: 0;
+    }
+    .trustedImg {
+        height: 140px;
+    }
+    .compImage {
+        width: 80px;
+    }
+    .stepslistInner {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .squadSteps .stepsList:nth-child(n) {
+        position: relative;
+        display: block;
+        width: 100%;
+        left: 0;
+        float: left;
+        margin: 0;
+        height: 38vw;
+        margin-bottom: 1.4vw;
+    }
+    .stepslistInner h4 {
+        font-size: 18px;
+    }
+    .stepslistInner p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .startSteps {
+        padding: 0;
+    }
+    .trustedDetail p {
+        font-size: 13px;
+    }
+    .trustedDescrip p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .description img {
+        width: 21px;
+    }
+    .trustedDescrip {
+        padding: 35px 10px;
+    }
+    .depDetails {
+        position: relative;
+    }
+    .depInner {
+        position: absolute;
+        display: none;
+        width: 100%;
+        background: #fff;
+        z-index: 9;
+        border-radius: 6px;
+        overflow: hidden;
+        will-change: transform;
+        left: 0px;
+        box-shadow: 0 8px 24px 0 rgba(0, 0, 0, 0.16);
+        border: 1px solid rgba(0, 0, 0, .15);
+    }
+    .depDetails ul li.depSection {
+        background: var('--colorWhite');
+        border: 1px solid #dedede;
+        padding: 15px 22px;
+        color: var(--colorMidnight);
+        border-radius: 6px;
+    }
+    .depInner ul {
+        margin: 7px 0;
+    }
+    .depDetails ul li {
+        border-radius: 0;
+    }
+    .depDetails ul li.active {
+        background: var(--colorOrange);
+        color: var(--colorWhite);
+    }
+    .departmentDetails {
+        padding-bottom: 0;
+    }
+    .departmentBox {
+        display: block;
+    }
+    .departmentDetails {
+        padding-left: 0;
+        border-left: none;
+    }
+    .allLocations {
+        padding-bottom: 30px;
+    }
+    .departmentDetails {
+        margin-top: 36px;
+    }
+    .depDetails ul li {
+        padding: 18.5px 22px;
+    }
+    .departmentFilter {
+        margin-right: 0;
+    }
+    .careerBanner .bannerInner h1 span {
+        display: block;
+    }
+    h1.mainHeading {
+        font-size: 34px;
+        line-height: 46px;
+    }
+    .careerBanner h4.subHeading {
+        font-size: 17px;
+    }
+    .bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+        font-size: 16px;
+    }
+    .bootstrap-select .dropdown-menu li a span.text {
+        font-size: 16px;
+    }
+    .bootstrap-select .dropdown-toggle {
+        padding: 13px 22px;
+    }
+    .bootstrap-select .dropdown-menu li a {
+        padding: 14px 22px 14px;
+    }
+    .depDetails ul li.allDepartment {
+        padding: 15px 22px;
+    }
+    .depDetails ul li {
+        padding: 16px 22px;
+    }
+    .depDetails li.depSection {
+        display: block;
+    }
+    .depDetails ul li {
+        font-family: var(--monserratRegular);
+        color: var(--colorMidnight);
+    }
+    .depDetails ul li.depSection.show {
+        border: 1px solid var(--colorOrange);
+    }
+    .peoplePhone {
+        display: block;
+    }
+    .desktopPeople {
+        display: none;
+    }
+    .triviaAll:nth-child(odd) {
+        display: block;
+    }
+    .triviaAll {
+        display: block;
+    }
+    .triviaRight {
+        padding-top: 92px;
+        padding-bottom: 20px;
+        display: block;
+        width: 100%;
+    }
+    .triviaAll:nth-child(odd) .triviaRight {
+        padding-top: 48px;
+    }
+    .triviaAll {
+        padding: 70px 0px 0px;
+    }
+    .squadget .col-sm-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .squadGetInner {
+        margin: 50px auto 0px;
+    }
+        .trivaLeft {
+    width: 215px;
+            margin: 0 auto;
+}
+    .triviaAll:nth-child(odd) .triviaRight {
+    margin-left: 0;
+    padding-left: 30px;
+}
+}
+
+@media(max-width:575px) {
+    .featuresInner .col-sm-6:nth-last-child(-n+2) .featuresBox {
+        margin-bottom: 68px;
+    }
+    .featuresInner .col-sm-6:last-child .featuresBox {
+        margin-bottom: 0;
+    }
+    .beliveIn .col-sm-4 {
+        text-align: left;
+    }
+    .beliveInner .col-sm-4:nth-child(3) {
+        padding-left: 15px;
+    }
+    .beliveInner .col-sm-4:nth-child(6) {
+        padding-left: 15px;
+    }
+    .beliveInner .col-sm-4:nth-child(6) .beliveNumber p br {
+        display: none;
+    }
+    .beliveFirst.beliveThird {
+        bottom: 48%;
+        left: 46%;
+    }
+    .beliveFirst.beliveFifth {
+        right: 1%;
+        bottom: 45%;
+    }
+    .beliveFirst.beliveSix {
+        bottom: 60%;
+        right: -5%;
+    }
+    .trivaFirst {
+        margin: 0 auto;
+    }
+    .triviaAll:nth-child(odd) .triviaRight {
+        margin-left: 0;
+    }
+    .banHead h1 {
+       font-size: 30px;
+    line-height: 36px;
+}
+
+}
+
+@media(max-width:560px) {
+    .bannerImg {
+        width: 320px;
+    }
+    .greyBtn {
+        margin-left: 4px;
+    }
+    h2.headingSize {
+        font-size: 25px;
+        line-height: 34px;
+        color: var(--colorMidnight);
+    }
+    h4.headingSize {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    h2.subheadSize {
+        font-size: 21px;
+        line-height: 26px;
+    }
+    h2.headSize {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .headingCenter::after,
+    .headingLeft:after {
+        width: 40px;
+    }
+    .Banner {
+        position: relative;
+        z-index: 10;
+    }
+    .footerMenu .footmenu {
+        width: 50%;
+        margin-bottom: 36px;
+    }
+    .footerMenu .footmenu:last-child {
+        margin-bottom: 0;
+    }
+    .footerMenu {
+        margin-top: 36px;
+    }
+    .bottomLeft,
+    .bottomRight {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .footerInner {
+        padding: 50px 0 50px;
+    }
+    .footLogo a {
+        width: 180px;
+    }
+    .footLeft p {
+        margin: 21px 0 42px;
+    }
+    .footBottom p {
+        font-size: 12px;
+    }
+    .pressmentionList ul li::after {
+        width: 225px;
+    }
+    .bannerContent {
+        margin-top: 60px;
+    }
+    h4.headSize {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .trustedDetail p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .trustedDescrip {
+        padding: 30px 10px;
+    }
+    p.description {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .features {
+        -webkit-clip-path: polygon(0% 94%, 0% 0%, 100% 0%, 100% 100%);
+        clip-path: polygon(0% 94%, 0% 0%, 100% 0%, 100% 100%);
+        padding-bottom: 60px;
+    }
+    .squadSteps .stepsList:nth-child(n) {
+        height: 36vw;
+    }
+    .squadSteps .stepsList:nth-child(2) {
+        height: 36vw;
+    }
+    .squadSteps .stepsList:nth-child(3) {
+        height: 37.5vw;
+    }
+    .squadSteps .stepsList:nth-child(4) {
+        height: 36vw;
+    }
+    .squadSteps .stepsList:nth-child(5) {
+        height: 35vw;
+    }
+    h1.mainHeading {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .careerBanner h4.subHeading {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .openRoles .topHeading h4 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .bootstrap-select .dropdown-menu li a {
+        padding: 12px 22px 12px;
+    }
+    .bootstrap-select .dropdown-toggle {
+        padding: 11px 22px;
+    }
+    .depDetails ul li.allDepartment {
+        padding: 13px 22px;
+    }
+    .depDetails ul li {
+        padding: 14px 22px;
+    }
+    .departmentList h4.headingSize {
+        font-size: 17px;
+    }
+    h5.heading {
+        font-size: 13px;
+    }
+    .departmentInner .location {
+        font-size: 11px;
+    }
+    .departmentInner h4 {
+        margin: 0 0 12px;
+    }
+    .departmentInner {
+        margin-bottom: 40px;
+    }
+    .careerBanner {
+        padding: 120px 0 80px;
+    }
+    .careerBanner .bannerInner img {
+        width: 170px;
+    }
+    .depDetails ul li.depSection {
+        padding: 13px 22px;
+    }
+    .jobBanner h1.mainHead {
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .jobBanner {
+        padding: 110px 0 80px;
+    }
+    .jobDescription h2.headingSize {
+        font-size: 34px;
+        line-height: 65x;
+    }
+    .jobDescription .topHeading {
+        margin-bottom: 32px;
+    }
+    .jobDetails .descripDetail {
+        margin-bottom: 35px;
+    }
+    h4.smallSize {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .jobDescription {
+        padding: 60px 0 130px;
+    }
+    .peopleSay h2 {
+        color: var(--colorWhite);
+    }
+    .beliveIn .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .beliveInner .col-sm-4:nth-child(2) {
+        padding-top: 120px;
+    }
+    .squadget .col-sm-4:nth-child(even) {
+        padding-right: 0;
+        border-bottom: 1px solid #ccc;
+    }
+    .squadget .col-sm-4:nth-child(odd) {
+        border-bottom: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+        padding-left: 0;
+    }
+    .squadget .col-sm-4:last-child {
+        border: none;
+        margin: 0 auto;
+    }
+    .squadGetInner {
+        width: 100%;
+        margin: 0 auto;
+        box-shadow: unset;
+        padding: 20px 0px;
+    }
+    .beliveNumber p br {
+        display: none;
+    }
+    .beliveFirst {
+        position: absolute;
+        bottom: 80%;
+        right: 0%;
+    }
+    .beliveFirst.beliveSecond {
+        left: inherit;
+        right: 0%;
+    }
+    .beliveFirst.beliveThird {
+        bottom: 80%;
+        left: inherit;
+        right: 0;
+    }
+    .beliveFirst.beliverForth {
+        bottom: 80%;
+        right: 0%;
+    }
+    .beliveFirst.beliveFifth {
+        right: 0%;
+        bottom: 80%;
+    }
+    .beliveFirst.beliveSix {
+        bottom: 80%;
+        right: 0%;
+    }
+    .beliveInner .col-sm-4:nth-child(3) {
+        padding-left: 15px;
+    }
+    .beliveInner .col-sm-4:nth-child(5) {
+        padding-right: 15px;
+    }
+    .beliveInner .col-sm-4:nth-child(4) {
+        padding-right: 15px;
+    }
+    .beliveInner .col-sm-4:nth-child(6) {
+        padding-right: 0;
+        padding-left: 15px;
+    }
+    .triviaRight {
+        padding-top: 77px;
+        padding-bottom: 30px;
+    }
+    .triviaAll:nth-child(odd) .triviaRight {
+        padding-top: 34px;
+        padding-bottom: 0;
+    }
+    p.culture br {
+        display: none;
+    }
+    .Trivia {
+        padding-right: 15px;
+    }
+    .squadgetHeading {
+        padding-top: 25px;
+    }
+    .beliveNumber {
+        width: 300px;
+    }
+    .galleryAll .slickslide .slick-slide.slick-center span {
+        transform: scale(2);
+        ;
+    }
+    .galleryAll .slickslide .slick-slide.lt1 span {
+        opacity: .7;
+        transform: translate(-36%, 0) scale(0.8);
+    }
+    .galleryAll .slickslide .slick-slide.gt1 span {
+        opacity: .7;
+        transform: translate(36%, 0) scale(0.8);
+    }
+    .banHead h1 {
+    font-size: 22px;
+    line-height: 28px;
+}
+    /* Job Description Page End */
+}
+
+@media(max-width:414px) {
+    /* Home Page Start */
+    .trustedBy.paddingSpace.our_investors {
+    min-height: auto;
+    max-height: auto;
+}
+    .bannerContent {
+        margin-top: 50px;
+    }
+    .paddingSpace {
+        padding: 32px 0 36px;
+    }
+    .bannerImg {
+        width: 80%;
+    }
+    a.btns {
+        width: 100%;
+    }
+    .greyBtn {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    h2.headingSize {
+        font-size: 23px;
+        line-height: 28px;
+        color: var(--colorMidnight);
+    }
+    .workInner h2.headingSize {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    h4.headingSize {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    h2.subheadSize {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    h2.headSize {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .ourtaskList {
+        margin: 16px 0 30px;
+    }
+    .headingCenter::after,
+    .headingLeft:after {
+        width: 30px;
+    }
+    .headingCenter,
+    .headingLeft {
+        padding-bottom: 12px;
+    }
+    .listStyles {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .Banner {
+        background-position: center right 16%;
+        padding: 95px 0 190px;
+    }
+    .ourWork.paddingSpace {
+        padding-top: 185px;
+        margin-top: -206px;
+        z-index: 9;
+        position: relative;
+    }
+    .topHeading {
+        margin-bottom: 48px;
+    }
+    .features {
+        -webkit-clip-path: polygon(0% 95%, 0% 0%, 100% 0%, 100% 100%);
+        clip-path: polygon(0% 95%, 0% 0%, 100% 0%, 100% 100%);
+    }
+    .footerInner {
+        padding: 50px 0 36px;
+    }
+    .footBottom p {
+        font-size: 11px;
+    }
+    .pressmentionList ul li::after {
+        width: 200px;
+    }
+    .footLogo a {
+        width: 150px;
+    }
+    p.headingSize {
+        font-size: 16px;
+    }
+    h4.headSize {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .trustedDetail p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .trustedDetail {
+        padding: 8px;
+    }
+    .trustedDescrip {
+        padding: 30px 10px;
+    }
+    p.description {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .trustedDescrip p {
+        padding: 0 25px;
+    }
+    .description img {
+        width: 17px;
+    }
+    .stepslistInner p br {
+        display: none;
+    }
+    .stepslistInner h4 {
+        margin-bottom: 10px;
+    }
+    /* Get Started Start */
+    .squadSteps {
+        margin-top: 6.5vw;
+    }
+    .stepslistInner {
+        padding: 0 54px;
+    }
+    /* Get Started End */
+    /* Home Page End */
+    /* Career Page Start */
+    .locationAll,
+    .departmentFilter {
+        width: 100%;
+        min-width: 100%;
+    }
+    h1.mainHeading {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .careerBanner .bannerInner h4 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .careerBanner {
+        padding: 116px 0 78px;
+    }
+    .bootstrap-select .dropdown-toggle .filter-option-inner-inner,
+    .depDetails ul li,
+    .bootstrap-select .dropdown-menu li a span.text {
+        font-size: 14px;
+    }
+    .bootstrap-select .dropdown-toggle {
+        padding: 10px 22px;
+    }
+    .bootstrap-select .dropdown-menu li a {
+        padding: 12px 22px;
+    }
+    .departmentInner h4.headingSize {
+        font-size: 16px;
+    }
+    h5.heading {
+        font-size: 12px;
+    }
+    .departmentInner .location {
+        font-size: 10px;
+    }
+    .rightArrow img {
+        width: 70%;
+        float: left;
+    }
+    .departmentheading {
+        margin-bottom: 16px;
+    }
+    .depDetails ul li.allDepartment {
+        padding: 13px 22px;
+    }
+    .departmentInner h4 {
+        margin: 0 0 12px;
+    }
+    .departmentInner {
+        margin-bottom: 32px;
+    }
+    .depDetails {
+        width: 100%;
+    }
+    .openRoles .topHeading {
+        margin-bottom: 20px;
+    }
+    .openRoles .topHeading h4 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .careerBanner .bannerInner h4 {
+        padding: 32px 0 44px;
+    }
+    .allLocations {
+        padding-bottom: 18px;
+    }
+    .careerBanner .bannerInner img {
+        width: 150px;
+    }
+    .depDetails ul li.depSection {
+        padding: 12px 22px;
+    }
+    /* Career Page End */
+    .startSteps {
+        padding: 0;
+    }
+    /* Job Description Page Start */
+    .jobBanner h1.mainHead {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .jobBanner {
+        padding: 92px 0 49px;
+    }
+    .jobDescription h2.headingSize {
+        font-size: 32px;
+        line-height: 65x;
+    }
+    .jobDescription .topHeading {
+        margin-bottom: 32px;
+    }
+    .jobDetails .descripDetail {
+        margin-bottom: 30px;
+    }
+    h4.smallSize {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .applyBox {
+        width: 100%;
+    }
+    .jobDescription {
+        padding: 54px 0 104px;
+    }
+    .phoneView {
+        display: block;
+    }
+    .desktopview {
+        display: none;
+    }
+    .beliveIn {
+        padding: 20px 0px;
+    }
+    .beliveNumber h2 {
+        font-size: 15px;
+    }
+    .beliveNumber p {
+        font-size: 14px;
+    }
+    .triviaRight p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .flexTime {
+        height: 52px;
+        width: 52px;
+    }
+    .squadGetInner h2 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .squadGetInner p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .squadget .col-sm-4:nth-child(odd) {
+        padding-right: 10px;
+    }
+    .squadget .col-sm-4:nth-child(even) {
+        padding-left: 10px;
+    }
+    .squadget .col-sm-4:nth-child(7),
+    .squadget .col-sm-4:nth-child(8) {
+        border-bottom: none;
+    }
+    .squadgetHeading h2 {
+        font-size: 22px;
+    }
+    .squadgetHeading {
+        padding-bottom: 40px;
+    }
+    .Trivia {
+        padding: 25px 15px 25px 0px;
+    }
+    .squadget {
+        padding: 15px 0px;
+    }
+    .beliveNumber {
+        width: 207px;
+    }
+    .galleryAll .slickslide .slick-slide.gt1 span {
+        opacity: .7;
+        transform: translate(82%, 0) scale(0.8);
+    }
+    .galleryAll .slickslide .slick-slide.lt1 span {
+        opacity: .7;
+        transform: translate(-85%, 0) scale(.8);
+    }
+    .galleryAll .slickslide .slick-slide.slick-center span {
+        z-index: 1;
+        transform: scale(3.2);
+        opacity: 1;
+        background: #fff;
+        border-radius: 18px;
+    }
+    .galleryAll .slickslide .slick-slide.slick-center span {
+        z-index: 1;
+        transform: translate(-37%, 0) scale(0.9);
+        opacity: 1;
+        background: #fff;
+        width: 358%;
+        border-radius: 18px;
+        overflow: hidden;
+    }
+    .galleryAll .slickslide .slick-prev,
+    .galleryAll .slickslide .slick-next {
+        display: none ! important;
+    }
+    .galleryAll .row {
+        padding-top: 15px;
+    }
+    .galleryAll {
+        padding-bottom: 60px;
+    }
+    .galleryHead h2 {
+        color: var(--colorWhite);
+    }
+    .slick-dotted.slick-slider {
+        margin-bottom: 40px;
+    }
+    .appointmentInner h2 {
+        margin-bottom: 20px;
+    }
+    /* Job Description Page End */
+    .whatbel.squadget .col-sm-4 {
+        width: 100%;
+        flex: inherit;
+        border: none;
+        max-width: 100%;
+    }
+    .whatbel .flexTime {
+        margin: 0;
+    }
+    .whatbel.squadget {
+        padding: 15px 10%;
+    }
+    .whatbel .squadGetInner p {
+        padding-top: 0;
+    }
+    .whatbel .squadGetInner h2 {
+        padding: 6px 0px;
+    }
+    .triviaAll:nth-child(even) .triviaRight {
+        padding-left: 0;
+    }
+    .WorkWith a.btns {
+        width: auto;
+    }
+    .banHead h1{
+        display: none;
+    }
+}
+
+@media(max-width:360px) {
+    .phoneBtn {
+        width: 266px;
+    }
+    .trivaThird {
+        bottom: -37px;
+        width: 104px;
+        height: 70px;
+        left: -40px;
+    }
+    .trivaFirst {
+        width: 200px;
+        height: 142px;
+    }
+    .triviaAll:nth-child(odd) .trivaThird {
+        left: -40px;
+        top: -37px;
+        width: 95px;
+        height: 67px;
+    }
+    .trivaSecond {
+        width: 100px;
+        height: 66px;
+    }
+    .triviaAll:nth-child(odd) .trivaSecond {
+        right: -50px;
+        bottom: 35px;
+    }
+}
+/*******About css******/
+@media only screen and (max-width: 1199px){
+    .milestone_content .milestone_box:first-of-type .mile_img:after{
+        width:149px;
+    }
+    .mile_img:after{
+        width: 170px;
+    }
+    .ledaer_box{
+        width:64%;
+        padding-top: 15px;
+        margin-top:-41px;
+    }
+    span.linkdin{
+        left: 42%;
+        bottom: -12px;
+ 
+    }
+    .investors_tabs a{
+        font-size: 14px;
+    }
+    .trustedImg.trust_slides {
+        height: auto;
+    }
+    .year_para p{
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .yearAll a:nth-child(5) {
+    left: 97%;
+}
+    .circle.circle5 {
+    left: 98%;
+}
+    .companyCreat {
+    width: 260px;
+    padding: 20px;
+}
+    .companyCreat h4 {
+    font-size: 18px;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+    .companyCreat p{
+        font-size: 15px;
+    }
+    .companyCreat.companyCreat4,.companyCreat.companyCreat5{
+        left: 72%;
+    }
+    .line::before{
+        width: 98%;
+    }
+    .milestone{
+        min-height: 550px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .squadGetInner.team_content p{
+        font-size: 16px;
+    }
+    .ledaer_box{
+        width:50%;
+    }
+    span.linkdin{
+        left: 43%;
+    }
+    .invstr_dscp{
+        left: 85px;
+    }
+    }
+@media only screen and (max-width:800px){
+    .milestone_content .milestone_box:first-of-type .mile_img:after{
+        width: 110px;
+    }
+    .mile_img:after{
+        width: 130px;
+    }
+    .shadow_box{
+        padding:0px 66px;
+    }
+    .investors_tabs a{
+        width:30%;
+    }
+    .invstr_dscp {
+    left: 32px;
+}
+.year_head h2{
+    font-size: 14px;
+}
+.year_descp{
+    padding:15px 15px;      
+}
+.team_section .squadGetInner.team_content p {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width:768px){
+.investors_tabs a{
+    font-size: 12px;
+}
+    .companyCreat.companyCreat4, .companyCreat.companyCreat5 {
+    left: 63%;
+}
+    .milestone {
+    min-height: 535px;
+}
+}
+@media only screen and (max-width:767px){
+.our_mission{
+    padding:15px 0px;   
+}
+.team_section .squadGetInner {
+    width: 100%;
+}
+        .yearAll a {
+    transform: rotate(270deg);
+}
+    .line {
+    transform: rotate(90deg);
+    margin-top: 220px;
+            position: absolute;
+    left: -90px;
+            top: 33%;
+}
+
+    .milestone {
+    min-height: 1000px;
+}
+.yearAll {
+    top: 35px;
+}
+    .companyCreat {
+    width: 320px;
+    padding: 10px;
+    box-shadow: none;
+    top: -240px;
+    transform: rotate(270deg);
+}
+    .companyCreat.companyCreat1 {
+    left: -22%;
+}
+     .companyCreat.companyCreat2 {
+    left: 4%;
+}
+    .companyCreat.companyCreat3 {
+    left: 29%;
+}
+    .companyCreat.companyCreat4 {
+    left: 54%;
+}
+     .companyCreat.companyCreat5 {
+    left: 77%;
+}
+    .line::before{
+        display: none;
+    }
+    .mileInner p{
+        display: none;
+    }
+    .yearAll a:nth-child(5) {
+    left: 96%;
+}
+    .yearAll a:nth-child(4) {
+    left: 74%;
+}
+    .yearAll a:nth-child(3) {
+    left: 49%;
+}
+    .yearAll a:nth-child(2) {
+    left: 24%;
+}
+    .yearAll a {
+    position: absolute;
+    left: -7px;
+}
+}
+@media only screen and (max-width: 640px){
+.msnn_img img{
+
+    object-fit: cover;
+    height: 400px;
+}
+.mission_text {
+    margin: 20px 0px;
+}
+.mile_img:after {
+    width: 97px;
+}
+.milestone_content .milestone_box:first-of-type .mile_img:after{
+    width: 79px;
+}       
+.ledaer_box p{
+    font-size: 13px;
+}
+.investors_tabs a{
+    padding: 10px 15px;
+}
+.our_investors .trustedImg img {
+    object-fit: cover;
+}
+.year_descp{
+    width: 35%;
+}
+.twnty_div {
+    left: 65%;
+}
+.team_section .col-sm-3 {
+    max-width: 100%;
+    flex: none;
+}
+.team_section .squadGetInner.team_content {
+    margin: 0;
+}
+.investors_tabs a {
+    width: 45%;
+}
+.trustedBy.paddingSpace.boxs.our_investors {
+/*    overflow: hidden;*/
+    height: 758px;
+}
+    .line {
+    top: 27%;
+}
+    .milestone {
+    min-height: 900px;
+}
+}
+@media only screen and (max-width: 600px){
+    .invstr_dscp p{
+        text-align: left;
+    }
+    .ledaer_box {
+    width: 60%;
+}
+.invstr_dscp{
+    bottom:16px;
+}
+
+}
+
+@media only screen and (max-width: 560px){
+.msnn_img{
+        text-align: center;
+
+    }
+    h2.year {
+    font-size: 15px;
+}
+h3.year {
+    font-size: 15px;
+}
+.team_section .col-sm-3 {
+    max-width: 100%;
+}
+.milestone_content .milestone_box:first-of-type .mile_img:after{
+    width:65px;
+}
+.mile_img:after{
+    top: 49px;
+    width: 85px;
+}
+span.linkdin{
+    left: 45%;  
+}
+.investors_tabs a{
+    width:35%;
+}
+.invstr_dscp {
+    left: 24%;
+}
+.mission_para p{
+    font-size: 16px;
+}
+.about_banner .bannerImg {
+    width: 100%;
+}
+
+}
+@media only screen and (max-width: 480px){
+.mile_img:after{
+    width: 65px;
+}
+.milestone_content .milestone_box:first-of-type .mile_img:after{
+    width:50px;
+}
+.investors_tabs a{
+    width: 45%;
+}
+.ledaer_box {
+    width: 65%;
+}
+.year_descp {
+    width: 50%;
+}
+.year_descp{
+    left: 0;        
+}
+.year_descp.nineteen_div {
+    left: 40%;
+}
+.year_descp.twnty_div {
+    left: 54%;
+}
+.year_descp.shift_divv {
+    left: 30%;
+}
+.year_descp.nineteen_div {
+    left: 40%;
+}
+.year_descp.twnty_div {
+    left: 54%;
+}
+.Our-leaders .trustedImg img {
+    height: auto;
+}
+.milestone_box {
+    width: 100%;
+}
+h3.year{
+    text-align: left;
+}    
+.mile_img:first-of-type:after {
+    width: 47px!important;
+    left: 30.7%;
+    top:46px;
+    transform: rotate(90deg);
+}
+.mile_img:after{
+    width: 0px!important;
+}
+.milestone_box {
+    width: 71%;
+}
+.year_descp {
+    width: 50%;
+    bottom: 250px;
+    left: 50%;
+}
+.mile_img.circle:after {
+    position: absolute;
+    background: #ef7549;
+    width: 21px;
+    height: 1px;
+    top: 43%;
+}
+div#eighteen img {
+    margin-top: -62px;
+}
+.mile_img.crcle:after {
+    position: absolute;
+    background: #ef7549;
+    width: 21px;
+    height: 1px;
+    top: 56%;
+}
+.mile_img.crcle3:after {
+    position: absolute;
+    background: #ef7549;
+    height: 1px;
+    top: 68%;
+}
+.mile_img.crcle4:after {
+    position: absolute;
+    background: #ef7549;
+    height: 1px;
+    top: 93%;
+}
+div#twenty img {
+    margin-top: -49px;
+}
+.shadow_box{
+    display: none;
+}
+.year_descp {
+    left: 50%!important;
+    overflow: hidden;
+    bottom: 250px;
+}
+.milestones_section {
+    height: 580px;
+}
+.circlee1 img{
+    margin-top: -80px;
+}
+div#seventeen img {
+    margin-top: -69px;
+}
+div#nineteen img {
+    margin-top: -55px;
+}
+.invstr_dscp {
+    left: 10%;
+}
+}  
+@media only screen and (max-width: 420px){
+    .mile_img:after{
+        width:56px;     
+    }
+    .milestone_content .milestone_box:first-of-type .mile_img:after {
+    width: 35px;
+}
+span.linkdin{
+    left: 41%;
+}
+.investors_tabs a {
+    width: 48%;
+    margin-left: 8px;
+}
+.Banner.boxs.about_banner h2{
+    text-align: left;
+    font-size: 22px;
+    line-height: 40px;
+}
+.Banner.boxs.about_banner {
+    padding-bottom: 100px;
+}
+.about_banner .join_us{
+    margin-top: 30px;  
+}
+.topHeading.boxs.msn_hddd {
+    display: block;
+}
+.missn_content h2{
+    display: none;
+}
+.mission_para{
+    padding:0;
+}
+.invstr_dscp {
+    left: 16%;
+}
+.mile_img:first-of-type:after{
+    left: 29.8%;
+}
+    .companyCreat {
+    width: 235px;
+}
+}
+@media only screen and (max-width:415px){
+.mile_img:first-of-type:after{
+    left: 29.9%;
+}
+    .line {
+    top: 20%;
+}
+    .milestone {
+    min-height: 735px;
+}
+}
+@media only screen and (max-width:414px){
+    .galleryAll.galleryAll2{
+    display: block !important;
+}
+    .myslidernew.trustedInner.trustedIn.boxs.indi_slider{
+        display: none ! important;
+    }
+    .galleryAll.galleryAll2 .row {
+        padding-top: 0px;
+    }
+    .trustedBy.paddingSpace.boxs.our_investors .container{
+        padding: 0;
+        margin: 0;
+    }
+    .galleryAll.galleryAll2{
+        background: #fff;
+    }
+    .galleryAll.galleryAll2 .slickslide .slick-slide.slick-center span{
+        height: 100%;
+        box-shadow: none;
+        background: transparent;
+    }
+    .galleryAll.galleryAll2 .trustedBox{
+        width: 100%;
+    }
+    .galleryAll.galleryAll2 .slickslide .slick-slide.gt1 span{
+       background: transparent; 
+         box-shadow: none;
+    }
+    .galleryAll.galleryAll2 .slickslide .slick-slide.lt1 span {
+    opacity: .7;
+    transform: translate(-85%, 10%) scale(.8);
+}
+    .galleryAll.galleryAll2 .slickslide .slick-slide.gt1 span {
+    opacity: .7;
+    transform: translate(78%, 10%) scale(0.8);
+}
+.galleryAll..galleryAll2 .slickslide .slick-slide.gt1 span {
+    opacity: .7;
+    transform: translate(78%, 0) scale(0.8);
+}
+    
+.mile_img:first-of-type:after{
+    left: 29.9%;
+}
+.mile_img:first-of-type:after {
+    left: 29.6%;
+}
+    .line {
+    top: 115px;
+        left: -80px;
+}
+   .companyCreat.companyCreat1 {
+    left: -18%;
+} 
+    .companyCreat {
+    top: -200px;
+}
+    .companyCreat h4{
+        font-size: 14px;
+    }
+       .companyCreat p{
+        font-size: 13px;
+           line-height: 20px;
+    }
+    .companyCreat.companyCreat2 {
+    left: 8%;
+}
+    .companyCreat.companyCreat3 {
+    left: 33%;
+}
+    .companyCreat.companyCreat4 {
+    left: 58%;
+}
+    .companyCreat.companyCreat5 {
+    left: 81%;
+}
+    .milestone {
+    min-height: 640px;
+}
+    .yearAll a{
+        font-size: 15px;
+    }
+    .yearAll a.fontClass{
+        font-size: 18px;
+    }
+    .trustedInner2{
+      display: none;
+    }
+    .trustedBy.paddingSpace.boxs.our_investors {
+/*    overflow: hidden;*/
+    height: 680px;
+}
+    .investors_tabs{
+        margin-bottom: 15px;
+            padding: 0px 10px;
+    }
+.galleryAll.galleryAll2 {
+    padding-bottom: 0px;
+}
+}
+@media only screen and (max-width: 380px){
+    .investors_tabs a {
+    width: 49%;
+    margin-left: 0;
+    padding: 2px 0px;
+        border-radius: 10px;
+}
+.investors_tabs a{
+    font-size: 12px;
+}
+.mile_img:first-of-type:after {
+    left: 28.8%;
+}
+    .line {
+    top: 90px;
+}
+    .milestone {
+    min-height: 615px;
+}
+    .companyCreat.companyCreat1 {
+    left: -19%;
+}
+    .companyCreat.companyCreat2 {
+    left: 7%;
+}
+    .companyCreat.companyCreat3 {
+    left: 31%;
+}
+    .companyCreat.companyCreat4 {
+    left: 56%;
+}
+    .companyCreat.companyCreat5 {
+    left: 80%;
+}
+    .msnn_img img {
+    object-fit: cover;
+     height: auto; 
+}
+}
+@media only screen and (max-width: 360px){
+    .companyCreat {
+    width: 200px;
+}
+.year_descp {
+    width: 54%;
+    overflow: hidden;
+}
+.year_descp.shift_div {
+    left: 6%;
+}
+.year_descp.shift_divv {
+    left: 17%; */
+}
+.year_descp.nineteen_div {
+    left: 20%;
+}
+.year_descp.twnty_div {
+    left: 30%;
+}
+    .line {
+    top: 70px;
+}
+    .companyCreat.companyCreat1 {
+    left: -21%;
+}
+    .companyCreat {
+    top: -182px;
+}
+    .milestone {
+    min-height: 575px;
+}
+}
+@media only screen and (max-width: 320px){
+    .Banner.boxs.about_banner h2{
+        line-height:40px;
+    }
+    .about_banner{padding:60px 0px 190px;}
+    .mile_img.circle {
+    padding: 13px 0px;
+}
+.milestone_content .milestone_box:first-of-type .mile_img:after {
+    width: 25px;
+}
+.mile_img:after{
+    top:45px;
+    width: 38px;
+}
+/*
+.invstr_img{
+    height: 250px;
+}
+*/
+.milestone_box:first-of-type {
+    margin-bottom: 24px;
+}
+.trustedBy.paddingSpace.boxs.our_investors {
+    overflow: hidden;
+/*    height: 550px;*/
+}
+div#twenty img {
+    margin-top: -111px;
+}
+.year_descp{
+    bottom: 345px;
+}
+.mile_img.crcle3:after{
+    top:88%;
+}
+.mile_img.circle2:after{
+    top: 54%;
+}
+.mile_img.crcle2:after{
+    top: 54%;
+}
+.mile_img.circlee1:after{
+    top: 54px;
+}
+div#nineteen img {
+    margin-top: -109px;
+}
+
+.mile_img.crcle4:after{
+    top:121%;
+}
+.mile_img:first-of-type:after{
+    width: 74px!important;
+    left: 22.8%;
+}
+div#eighteen img {
+    margin-top: -109px;
+}
+div#seventeen img {
+    margin-top: -109px;
+}
+.invstr_dscp {
+    left: 14%;
+}
+.invstr_dscp p{
+    font-size: 11px;
+}
+.investors_tabs a{
+    letter-spacing: 0px;
+    font-size: 12px;
+}
+}

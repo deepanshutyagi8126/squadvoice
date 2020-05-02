@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.368" height="72.396" viewBox="0 0 63.368 72.396">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#252f40}
+        </style>
+    </defs>
+    <g id="prefix__Group_274" data-name="Group 274" transform="translate(-2221.659 -1280.391)">
+        <circle id="prefix__Ellipse_9" cx="18" cy="18" r="18" data-name="Ellipse 9" transform="translate(2233.274 1280.391)" style="fill:#46ccc3;opacity:.5;isolation:isolate"/>
+        <g id="prefix__Group_264" data-name="Group 264" transform="translate(1575.736 1078.033)">
+            <g id="prefix__Group_263" data-name="Group 263">
+                <path id="prefix__Path_191" d="M653.043 274.753a1.446 1.446 0 0 0 1.032-.428l5.508-5.5H681.1a12.9 12.9 0 0 0 9.109-3.773l17.247-17.252c.077-.072.146-.142.213-.213a5.9 5.9 0 1 0-8.555-8.133l-10.045 10.015-.194-.5a5.881 5.881 0 0 0-5.445-3.72h-22.753a11.308 11.308 0 0 0-7.98 3.311l-3.314 3.316a1.459 1.459 0 0 0 0 2.066 1.464 1.464 0 0 0 2.065-.013l3.316-3.317a8.37 8.37 0 0 1 5.888-2.446h22.761a2.955 2.955 0 1 1 0 5.911h-13.17a1.458 1.458 0 1 0 0 2.916h13.229a5.835 5.835 0 0 0 4.042-1.617l13.639-13.849a2.984 2.984 0 0 1 4.229 4.2l-17.235 17.25a9.974 9.974 0 0 1-7.021 2.918h-22.15a1.47 1.47 0 0 0-1.032.425l-5.933 5.934a1.461 1.461 0 0 0 0 2.065 1.445 1.445 0 0 0 1.032.434z" class="prefix__cls-2" data-name="Path 191"/>
+                <path id="prefix__Path_192" d="M694.234 213.394l-3.278-7.592a1.463 1.463 0 0 0-1.908-.771l-7.959 3.4a1.465 1.465 0 0 0 1.171 2.686l4.7-2.028-.328.8a21.7 21.7 0 0 1-28.067 11.823 1.412 1.412 0 0 0-.378-.051 1.493 1.493 0 0 0-.708.18 1.459 1.459 0 0 0 .036 2.577 24.489 24.489 0 0 0 31.828-13.464l.314-.768 1.894 4.38a1.464 1.464 0 0 0 2.685-1.168z" class="prefix__cls-2" data-name="Path 192"/>
+                <path id="prefix__Path_193" d="M663.27 232.1a1.458 1.458 0 1 0-2.916 0v7.865a1.458 1.458 0 1 0 2.916 0z" class="prefix__cls-2" data-name="Path 193"/>
+                <path id="prefix__Path_194" d="M672.3 232.1a1.458 1.458 0 1 0-2.917 0v7.865a1.458 1.458 0 1 0 2.917 0z" class="prefix__cls-2" data-name="Path 194"/>
+                <path id="prefix__Path_195" d="M681.332 229.441a1.458 1.458 0 0 0-2.917 0v10.528a1.458 1.458 0 1 0 2.917 0z" class="prefix__cls-2" data-name="Path 195"/>
+                <path id="prefix__Path_196" d="M690.3 222.371a1.458 1.458 0 1 0-2.917 0v17.6a1.458 1.458 0 1 0 2.917 0z" class="prefix__cls-2" data-name="Path 196"/>
+            </g>
+            <circle id="prefix__Ellipse_25" cx="1.333" cy="1.333" r="1.333" class="prefix__cls-2" data-name="Ellipse 25" transform="translate(645.924 255.575)"/>
+        </g>
+    </g>
+</svg>

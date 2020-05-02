@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__linkedin" width="22.269" height="22.269" viewBox="0 0 22.269 22.269">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <rect id="prefix__Rectangle_36" width="22.269" height="22.269" data-name="Rectangle 36" rx="4" style="fill:#0084b1"/>
+    <g id="prefix__Group_67" data-name="Group 67" transform="translate(3.364 3.382)">
+        <path id="prefix__Path_90" d="M70.724 69.215a1.864 1.864 0 11-1.877 1.861 1.871 1.871 0 011.877-1.861z" class="prefix__cls-2" data-name="Path 90" transform="translate(-68.847 -69.215)"/>
+        <path id="prefix__Path_91" d="M76.9 185.02h-2.185a.514.514 0 01-.514-.514v-9.322a.514.514 0 01.514-.514H76.9a.514.514 0 01.514.514v9.322a.514.514 0 01-.514.514z" class="prefix__cls-2" data-name="Path 91" transform="translate(-73.939 -169.518)"/>
+        <path id="prefix__Path_92" d="M191.547 172.8a3.539 3.539 0 00-3.539-3.539h-.56a3.148 3.148 0 00-2.754 1.625h-.029v-1.144a.213.213 0 00-.213-.213h-2.726a.213.213 0 00-.213.213v9.923a.213.213 0 00.213.213h2.786a.213.213 0 00.213-.213v-5.735a1.817 1.817 0 011.781-1.825 1.8 1.8 0 011.823 1.8v5.757a.213.213 0 00.213.213h2.793a.213.213 0 00.213-.213V172.8z" class="prefix__cls-2" data-name="Path 92" transform="translate(-176.007 -164.373)"/>
+    </g>
+</svg>
